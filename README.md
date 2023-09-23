@@ -1,2 +1,2 @@
 # SQL-for-Data-Science
-SQL skills for data science
+intermediate SQL skills for data science
